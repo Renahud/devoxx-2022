@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Renaud Pirson
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -10,17 +10,16 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+enableGitHubEdit: false
+GitHubLink: https://github.com/Renahud/quartz-eurostar
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  My notes from Devoxx 2022
 page_title:
-  "🪴 Quartz 3.3"
+  "Devoxx 2022 - Renaud Pirson"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: 5thFloor
+    link: https://5thfloor.be/
   - link_name: Github
     link: https://github.com/jackyzha0
