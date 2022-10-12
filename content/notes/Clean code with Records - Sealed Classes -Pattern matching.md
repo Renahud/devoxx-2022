@@ -22,4 +22,53 @@ Override the **cannonical constructor** for:
 > You cannot create a constructor that doesn't call the cannonical constructor
 
 
+## [[Pattern Matching]]
+
+Adding responsability to your business model is not always a good idea.
+Violates the single responsability principle.
+
+If you externalize that responsability, you will have to do some casting to process subclasses.
+
+=> patternMatching for *instanceOf* 
+
+First step into pattern matching.
+
+can be used in switch expressions.
+```java
+return switch(shape){
+	case Circle circle -> ...
+	case Square square -> ...
+	default -> ...
+}
+```
+in this example : `Circle circle` is a pattern
+
+
+### Sealed type
+
+a type that knows it's extensions.
+```java
+public sealed interface Shape
+permits Circle, Square{
+
+}
+```
+
+If the class is sealed, you don't need the default value in the switch :
+
+```java
+return switch(shape){
+	case Circle circle -> ...
+	case Square square -> ...
+}
+```
+
+Using this, you can make sure you have an implementation for all the sublasses of a type, it's safer.
+
+Next step in pattern matching: **record pattern matching**
+
+Next :
+Array Patten MAtching
+Nested Patterns
+Patterns from existing classes
 
