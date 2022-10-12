@@ -20,3 +20,11 @@ Can be declared globally in a ControllerAdvice class
 
 ### AOT & [[GraalVM]]
 
+### JAva interface client
+
+Creating a simple rest client using a simple interface with 
+```java
+@GetExchange()
+```
+
+### [[notes/Project Loom|Loom]] Support
