@@ -6,7 +6,7 @@ by *Venkat Subramaniam*
 
 # Java *is* Agile
 
-## What is agile ?
+## What is [[notes/agile]] ?
 Stand up metings ? 
 Humans love ceremonies
 

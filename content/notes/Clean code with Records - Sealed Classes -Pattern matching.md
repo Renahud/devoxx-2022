@@ -3,7 +3,7 @@ title: "Clean code with Records - Sealed Classes -Pattern matching"
 ---
 by *José Paumard*
 
-new features of [[notes/java 19]]
+new features of [[notes/java 19 |Java19]]
 
 ## [[notes/Record class|Record]]
 
@@ -22,7 +22,7 @@ Override the **cannonical constructor** for:
 > You cannot create a constructor that doesn't call the cannonical constructor
 
 
-## [[Pattern Matching]]
+## [[notes/Pattern Matching |Pattern Matching]]
 
 Adding responsability to your business model is not always a good idea.
 Violates the single responsability principle.
@@ -33,7 +33,7 @@ If you externalize that responsability, you will have to do some casting to proc
 
 First step into pattern matching.
 
-can be used in switch expressions.
+can be used in [[notes/switch expressions|switch expressions]].
 ```java
 return switch(shape){
 	case Circle circle -> ...
@@ -68,7 +68,7 @@ Using this, you can make sure you have an implementation for all the sublasses o
 Next step in pattern matching: **record pattern matching**
 
 Next :
-Array Patten MAtching
+Array Patten Matching
 Nested Patterns
 Patterns from existing classes
 

@@ -4,12 +4,12 @@ title: "Artificial Intelligence - You are here"
 
 KeyNote by Dr Alan D. Thompson
 
-## [[Transformer]] model
+## [[notes/LLM Transformers|Transformer]] model
 
-New model for AI.
+New model for [[notes/artificial intelligence| AI]].
 Inventend when trying to translate from gendered languages to non gendered languages.
 
-GPT-3
+[[GPT-3]]
 Layer of [[notes/LLM Transformers|transformer]] decoders.
 Multiple transformers handling different parts of the context.
 
@@ -27,15 +27,16 @@ huggingface.co.uk/
 books:
 - Pharmako AI
 - Magoc's a Hoot : written with AI
-
+#readMore 
 
 ### Writing
-onceuponabot.com
-writes a story based on a prompt + images
+http://onceuponabot.com
+
+Writes a story based on a prompt + images
 
 
-Images
-- Google PArti
+### Images
+- Google Parti
 - Stable diffusion
 - Dall-E 2
 - Google Imagen Video
