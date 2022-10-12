@@ -8,3 +8,5 @@ title: "wednesday"
 - [[Java is agile]]
 
 ## Conferences
+- [[Spring framework 6]]
+- 

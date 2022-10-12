@@ -4,13 +4,13 @@ title: "Artificial Intelligence - You are here"
 
 KeyNote by Dr Alan D. Thompson
 
-## Transformer model
+## [[Transformer]] model
 
 New model for AI.
 Inventend when trying to translate from gendered languages to non gendered languages.
 
 GPT-3
-Layer of transformer decoders.
+Layer of [[notes/LLM Transformers|transformer]] decoders.
 Multiple transformers handling different parts of the context.
 
 We don't yet understand how these transformers work. They are a black box.
