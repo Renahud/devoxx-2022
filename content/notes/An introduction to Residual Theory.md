@@ -26,5 +26,14 @@ We cannot predict the event, but we can decide the structure of the residue.
 ### Random simulation
 
 Requirements are like a random simulation of the environments. 
+We are limited by bias in our somulation. (curse of high dimensionality)
 
 ### Kauffman Networks
+NKP analysis
+
+a software is a combination of random simulation followed by an NKP analysis.
+
+NKP analysis is limited by our architechural habits (DDD, or other patterns)
+
+
+Attractor Networks & Residues
