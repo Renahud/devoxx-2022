@@ -1,3 +1,9 @@
+---
+title: "Artificial Intelligence - You are here"
+---
+
+KeyNote by Dr Alan D. Thompson
+
 ## Transformer model
 
 New model for AI.
@@ -23,3 +29,14 @@ books:
 - Magoc's a Hoot : written with AI
 
 
+### Writing
+onceuponabot.com
+writes a story based on a prompt + images
+
+
+Images
+- Google PArti
+- Stable diffusion
+- Dall-E 2
+- Google Imagen Video
+- Craiyon
