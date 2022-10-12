@@ -9,4 +9,5 @@ title: "wednesday"
 
 ## Conferences
 - [[Spring framework 6]]
+- [[Clean code with Records - Sealed Classes -Pattern matching]]
 - 

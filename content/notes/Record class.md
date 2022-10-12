@@ -1,5 +1,6 @@
 ---
 title: "Record class"
+alias: [Record]
 ---
 
 simple pojo class with automatic
