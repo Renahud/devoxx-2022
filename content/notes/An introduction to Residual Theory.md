@@ -37,3 +37,12 @@ NKP analysis is limited by our architechural habits (DDD, or other patterns)
 
 
 Attractor Networks & Residues
+
+Planning for a few of different events can make the system survive a lot more events that we didn't even plan for.
+=> **Stressors analysis**
+
+Contagion Analysis : findung invisible coupling (hyperliminal coupling)
+
+
+
+#readMore
