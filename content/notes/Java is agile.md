@@ -37,6 +37,6 @@ Legacy is a funny word, usually it us used for the best things we leave for the 
 Java is still a good legacy for programmers
 10M developpers in java
 
+Demo :  [[java 19]]
 
-
-
+Do you work for hte compiler or does the compiler work for the compiler.
