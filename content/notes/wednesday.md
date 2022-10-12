@@ -3,12 +3,12 @@ title: "wednesday"
 ---
 
 ## Keynotes
-- [[Welcome to Devoxx 2022]]
-- [[Artificial Intelligence - You are here]]
-- [[Java is agile]]
+- [[notes/Welcome to Devoxx 2022]]
+- [[notes/Artificial Intelligence - You are here]]
+- [[notes/Java is agile]]
 
 ## Conferences
-- [[Spring framework 6]]
-- [[Clean code with Records - Sealed Classes -Pattern matching]]
-- [[Microfronted with multiple frameworks]]
+- [[notes/Spring framework 6]]
+- [[notes/Clean code with Records - Sealed Classes -Pattern matching]]
+- [[notes/Microfronted with multiple frameworks]]
 - 
