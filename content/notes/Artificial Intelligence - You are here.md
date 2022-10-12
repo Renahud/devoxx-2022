@@ -1,6 +1,6 @@
-## Transformer
+## Transformer model
 
-New pattern for AI.
+New model for AI.
 Inventend when trying to translate from gendered languages to non gendered languages.
 
 GPT-3
@@ -21,8 +21,5 @@ huggingface.co.uk/
 books:
 - Pharmako AI
 - Magoc's a Hoot : written with AI
-
-
-
 
 
