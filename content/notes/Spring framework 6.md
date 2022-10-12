@@ -20,7 +20,7 @@ Can be declared globally in a ControllerAdvice class
 
 ### [[notes/Ahead Of Time|AOT]] & [[notes/GraalVM|GraalVM]]
 
-### JAva interface client
+### Java interface client
 
 Creating a simple rest client using a simple interface with 
 ```java
