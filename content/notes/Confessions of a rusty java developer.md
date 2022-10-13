@@ -1,7 +1,7 @@
 ---
 title: "Confessions of a rusty java developer"
-alias: []
 ---
+
 ## What is RUST
 - C-like syntax
 - strongly typed (with inference)
