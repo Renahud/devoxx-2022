@@ -2,5 +2,5 @@
 title: "thursday"
 ---
 ## Conferences
-- [[Confessions of a rusty java developer]]
+- [[notes/Confessions of a rusty java developer]]
 - 
