@@ -49,5 +49,3 @@ you can specify hte lifetimes of hte memory allocations and some relationships b
 
 ### Leads to clearer API's
 When your dataflow is clearly defind, you can know very precisely how you're supposed to use an api and how the data will be used.
-
-
