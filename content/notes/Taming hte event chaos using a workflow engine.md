@@ -16,5 +16,10 @@ Now, Moore's law doesn't apply anymore. The burden of scaling now falls to the d
 > [!NOTE] 
 > Software development is hard and chaotic
 
+## Flowable
+A visual based framework.
+
+A visual model is where technical people and business people can meet.
+
 
 
