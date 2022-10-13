@@ -6,3 +6,5 @@ alias: []
 by *Lemi Orhan Ergin*
 
 
+What are the real questions the scrum rules try to solve ?
+
