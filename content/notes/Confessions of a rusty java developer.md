@@ -42,3 +42,12 @@ Memory is allocated in scopes and freed at the end of the scope
 Only one owner to a memory value.
 So you can borrow a reference, as long as it's immutable.
 
+### Explicit lifetimes
+
+you can specify hte lifetimes of hte memory allocations and some relationships between lifetimes.
+=> The compiler educates you and the code becomes simpler and faster.
+
+### Leads to clearer API's
+When your dataflow is clearly defind, you can know very precisely how you're supposed to use an api and how the data will be used.
+
+
