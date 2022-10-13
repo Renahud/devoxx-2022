@@ -13,3 +13,8 @@ Software development is a state of perpetual crisis.
 Now, Moore's law doesn't apply anymore. The burden of scaling now falls to the developer
 
 
+> [!NOTE] 
+> Software development is hard and chaotic
+
+
+
