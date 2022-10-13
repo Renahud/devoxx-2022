@@ -27,7 +27,7 @@ Result type:
 - ok
 - Err 
 
-### Pattern matching and destructuring
+### [[notes/Pattern Matching]] and destructuring
 examples were given
 
 ## Differences with java

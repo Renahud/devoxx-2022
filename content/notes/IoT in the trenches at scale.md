@@ -6,7 +6,7 @@ alias: []
 
 Sensors and actuators communicate with an application
 
-but then there's a lot of questions that arise when you want to scale: 
+But then there's a lot of questions that arise when you want to scale: 
 - Bad communication
 - monitoring
 - remote management
@@ -38,4 +38,4 @@ try{
 ```
 This is not an anti-pattern in the world of IoT, it's the strength of Java to be able to recover from any kind of unpmanned error.
 
-The modern JVM is available on a wide variety of wierd systems, so it makes java really good for IoT programming.
+The modern JVM is available on a wide variety of operating systems, so it makes java really good for IoT programming.

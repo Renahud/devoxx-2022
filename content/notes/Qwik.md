@@ -2,7 +2,7 @@
 title: "Qwik"
 alias: []
 ---
-*A no hydration instant on personnalized web app.*
+*A no [[hydration]] instant on personnalized web app.*
 
 The startup time of you application si key to make users stay and come back to the site.
 
@@ -20,19 +20,19 @@ In the past :
 - jquery
 => was  performent, but the dev was slow
 
-Now:
+Now :
 - angular
 - view
 - react
 - ...
 => fast dev, scales, unified model but super slow
 
-future:
+Future :
 - Google wiz
 - Qwick
 - Marko v6
 
-=> easy to build AND fast 
+=> **easy to build AND fast** 
 
 ## Advantages of Qwick
 Focuses on **startup time**

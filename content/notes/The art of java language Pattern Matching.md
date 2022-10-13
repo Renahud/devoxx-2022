@@ -5,7 +5,7 @@ alias: []
 
 Historically, we've had *java.util.regex*.
 
-That's not the subject, it's gonna be about language level patterns.
+That's not the subject, it's gonna be about [[notes/Pattern Matching|language level patterns]].
 
 A pattern is
 - a match predicate : determines whether the pattern matches a target
@@ -20,7 +20,7 @@ A pattern is
 	- Match and extract
 - var
 	- Uses type inference to map to a type pattern
-- Any(__)
+- Any( _ )
 	- Matches anything but binds to nothing (an unused pattern variable)
 
 
@@ -28,13 +28,13 @@ A pattern is
 Used to be a statement. No concept of generating a result that could be assigned
 Error prone if you forget the `break;` statement.
 
-=> Switch Expression
+=> [[notes/switch expressions | Switch Expression]]
 Now the switch returns a value.
 - The compa$iler can check that we always have a value
 - tidier
 - immutable
 
-## Records
+## [[notes/Record class|Record]]
 ```java
 record Point(double x, double y);
 
