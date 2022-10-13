@@ -8,7 +8,7 @@ by *Lemi Orhan Ergin*
 
 What are the real questions the scrum rules try to solve ?
 
-Agile principles are easy to undersand but difficult to master.
+[[notes/agile|Agile]] principles are easy to undersand but difficult to master.
 
 Technical practices need a whole team to adhere to them for them to be effective, needs practice and hard to achieve. 
 
@@ -72,12 +72,37 @@ Being agile without talking about it.
 > Continuously responding the change fast to satisfy customers with the whole team.
 1. responding fast
 	1. deliver fast
+		1. you need to become a domain expert to be able to deliver and develop fast
+		2. you need to master your tools
+		3. easy to be changed : SOLID, somple design, 
 	2. learn fast
 		1. from team
-		2. from xustomer
-		3. from pridyct
+		2. from customer
+		3. from product
 	3. provide support fast
 2. continuously
+	1. sustainablility
+	2. improve hiring process
+	3. metorship
+	4. Drop seniority level, focus on competence
 3. to change
+	1. keeo track of process
+	2. keep flow deterministic
+	3. be ready for change
+		1. hexagonal architecture
+	4. iterate
+	5. experiment
 4. satisfy cunstomer
+	1. identify expectations
+	2. meet expectations
+	3. surpass expectations
 5. the whole team
+	1. cultivate professionalisme
+		1. be the role model
+		2. be an apprentice
+		3. own you career
+
+
+Your organisation, your team is special, create a model fitting your needs.
+
+#readMore 
