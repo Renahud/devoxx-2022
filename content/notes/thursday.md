@@ -5,3 +5,5 @@ title: "Thursday"
 - [[notes/Confessions of a rusty java developer]]
 - [[IoT in the trenches at scale]]
 - [[Qwik]] 
+- [[notes/The art of java language Pattern Matching]]
+- 

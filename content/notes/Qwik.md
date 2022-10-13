@@ -2,7 +2,7 @@
 title: "Qwik"
 alias: []
 ---
-*A no hydration instant on personnalized web app with thymeleaf.*
+*A no hydration instant on personnalized web app.*
 
 The startup time of you application si key to make users stay and come back to the site.
 
@@ -62,5 +62,5 @@ Quick looks quite like react when developping.
 There is a service worker anticipating what the user could do and downloads the JS on a separate thread in the meantime (still only linked to what's visible).
 
 ### Personnalization
-
+still in dev.
 
