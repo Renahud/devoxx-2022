@@ -40,3 +40,7 @@ Some challenges of migration :
 
 - Data capture
 - Event-drivent architecture
+
+Do not connect your new microservice to the legacy database
+Do not make your service write data in multiple databases
+
