@@ -44,3 +44,9 @@ Some challenges of migration :
 Do not connect your new microservice to the legacy database
 Do not make your service write data in multiple databases
 
+### Debezium
+Generates events based on the activity on a legacy database that can be sent to a kafka stream. The new service can then update it's database listening to that stream.
+
+on the new service 
+**Quarkus + Apache Camel**
+
