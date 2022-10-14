@@ -45,3 +45,5 @@ The Data storage is just a pojo.
 > Synergizes well with the new Record types
 
 
+Storage configuration is configurable programmatically.
+
