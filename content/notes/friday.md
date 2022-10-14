@@ -2,6 +2,6 @@
 title: "friday"
 ---
 ## conferences
-- [[App modernization]]
-- [[why dont you create your next application without a database]]
+- [[notes/App modernization]]
+- [[notes/why dont you create your next application without a database]]
 - 
