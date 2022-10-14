@@ -50,3 +50,4 @@ Generates events based on the activity on a legacy database that can be sent to 
 on the new service 
 **Quarkus + Apache Camel**
 
+### Changed Data Capture Pattern 
