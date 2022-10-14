@@ -50,3 +50,4 @@ What about large collections of data that don't fit in hte HEAP ?
 
 Possible of course, you can defin some lazy collections that will be loaded only when needed. Those lazy fields will be collected by the GC when he needs space, so they won't stay in memory.
 
+Open source version is for 1 single JVM.
