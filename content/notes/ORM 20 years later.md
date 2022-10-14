@@ -13,6 +13,9 @@ Sources of discomfort in hibernate :
 - more difficult to debug and understand than some handwritten code
 - error reporting was not the most helpfull in hibernate
 - some users struggle dealing with managed entities and persistence contexts
+- missing features of modern sql in HQL
 
 Hand written code can still be as discomfortable... so it's not fair to only blame hibernate.
+
+Hibernate did not properly communicate the option of using a **StatelessSession**
 
