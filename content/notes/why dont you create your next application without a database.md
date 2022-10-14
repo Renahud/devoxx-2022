@@ -44,6 +44,8 @@ The Data storage is just a pojo.
 > [!NOTE] 
 > Synergizes well with the new Record types
 
-
 Storage configuration is configurable programmatically.
 
+What about large collections of data that don't fit in hte HEAP ?
+
+Possible of course, you can defin some lazy collections that will be loaded only when needed
