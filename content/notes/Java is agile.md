@@ -22,7 +22,7 @@ The pace of java evolution has increased last years. Released every 6 months
 
 It is **NOT** developed in 6 months cycles, some features take multiple years to develop.
 
-IT is **RELEASED** on a § months cycle.
+It is **RELEASED** on a 6 months cycle.
 
 **Features get on the release train when their ready, the trains depart every 6 months**
 
