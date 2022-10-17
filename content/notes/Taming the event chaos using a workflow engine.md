@@ -1,5 +1,5 @@
 ---
-title: "Taming hte event chaos using a workflow engine"
+title: "Taming the event chaos using a workflow engine"
 alias: []
 ---
 ## 4 laws of software development (Jeff Atwood)
