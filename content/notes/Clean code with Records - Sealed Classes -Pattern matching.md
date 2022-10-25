@@ -7,6 +7,10 @@ new features of [[notes/java 19 |Java19]]
 
 ## [[notes/Record class|Record]]
 
+```java
+public record Point(int x, in y){}
+```
+
 A record is a child of the Record class, so it cannot extend anything.
 It 's immutable.
 
